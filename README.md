@@ -11,7 +11,7 @@
 - 🛠️ Experiência em **Docker** e **Prisma Studio** para gerenciamento de ambientes e banco de dados  
 - 🌱 Aprendendo mais sobre **Python** e boas práticas de arquitetura de software  
 - 💬 Apaixonado por discutir **boas práticas, escalabilidade e design de software**  
-- 📸 Quando não estou programando, estou **editando fotos e criando no Lightroom/Photoshop**  
+- 📸 Quando não estou programando, estou **Fotografando**  
 
 ---
 
@@ -30,9 +30,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Krysthyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krysthyancosta&show_icons=true&theme=radical)  
+![Krysthyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmagoBR&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krysthyancosta&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmagoBR&layout=compact&theme=radical)
 
 ---
 
