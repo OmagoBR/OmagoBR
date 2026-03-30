@@ -27,9 +27,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmagoBR&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmagoBr&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmagoBR&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmagoBr&layout=compact&theme=radical&hide_border=true)
 
 ---
 
