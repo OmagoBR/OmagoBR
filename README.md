@@ -1,48 +1,95 @@
 # Krysthyan Costa
 
-💻 Desenvolvedor **Frontend** e me arriscando no Backend.  
-📸 Fotográfo e Editor (Photoshop & Lightroom).  
-🚀 **código + criatividade**.  
+💻 Fullstack Software Engineer (Frontend-focused)  
+🚀 Building scalable web applications with Next.js, React, and NestJS  
 
 ---
 
-## 🧑‍💻 Sobre mim
-- 🔭 Atualmente trabalho com foco em **JavaScript, React, Node.js e NestJS**  
-- 🛠️ Experiência em **Docker** e **Prisma Studio** para gerenciamento de ambientes e banco de dados  
-- 💬 **boas práticas, escalabilidade e design de software**  
-- 📸 Fotográfo nas horas vagas.
+## 🧑‍💻 About me
+- Frontend-focused engineer with strong experience in **Next.js (SSR, SSG, App Router)** and **React**
+- Backend development using **NestJS**, applying modular architecture and clean patterns
+- Experience designing and consuming **RESTful APIs**
+- Strong knowledge of **TypeScript** across frontend and backend
+- Database modeling and access with **Prisma ORM**
+- Containerized environments using **Docker**
+- Focus on **performance, scalability, and maintainable architecture**
+- Product-oriented mindset, balancing technical and business needs
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![React%20Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=fff)
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=fff)
-
+## ⚙️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, HTML, CSS  
+- **Backend:** Node.js, NestJS  
+- **Database:** PostgreSQL (Prisma ORM)  
+- **DevOps:** Docker, Git  
+- **Architecture:** REST APIs, Modular Architecture, Clean Code  
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Krysthyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmagoBR&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+![Krysthyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmagoBR&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmagoBR&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Onde me encontrar
-- 💼 [LinkedIn]([https://www.linkedin.com/in/krysthyanoliveira])  
-- ✉️ Contato: **krysthyanlp@gmail.com**  
+## 🌐 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/krysthyanoliveira  
+- ✉️ Email: krysthyanlp@gmail.com  
 
 ---
 
-✨ *"Unindo código e criatividade para transformar ideias em realidade."*
+💡 *"I build reliable and scalable digital products with a strong focus on user experience and business impact."*
+
+
+
+# Krysthyan Costa
+
+💻 Desenvolvedor Fullstack | Next.js & NestJS  
+🚀 Especialista em construir sistemas modernos, escaláveis e orientados a resultado  
+
+---
+
+## 🧑‍💻 Sobre minha atuação
+Atuo no desenvolvimento de aplicações completas, conectando frontend e backend com foco em performance, escalabilidade e qualidade de código.
+
+- Desenvolvimento de sistemas web com **Next.js e React**
+- Criação de APIs robustas com **NestJS**
+- Modelagem de banco de dados com **Prisma ORM**
+- Estruturação de projetos escaláveis
+- Padronização de ambientes com **Docker**
+
+---
+
+## 🚀 Como posso ajudar
+- 🔧 Desenvolvimento de sistemas sob medida  
+- 📈 Otimização de performance e arquitetura  
+- 🧱 Criação de projetos do zero (MVP até produção)  
+- 🔌 Integrações com APIs e serviços externos  
+- 🏗️ Refatoração e melhoria de código legado  
+
+---
+
+## ⚙️ Stack principal
+- Next.js  
+- React  
+- TypeScript  
+- Node.js  
+- NestJS  
+- Prisma  
+- Docker  
+
+---
+
+## 📊 GitHub Stats
+![Krysthyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmagoBR&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/krysthyanoliveira  
+- ✉️ Email: krysthyanlp@gmail.com  
+
+---
+
+💡 *"Transformo ideias em sistemas robustos, com foco em performance, escalabilidade e retorno para o negócio."*
